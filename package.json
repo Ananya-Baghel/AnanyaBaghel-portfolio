@@ -1,0 +1,36 @@
+
+{
+  "homepage": "https://ananya-baghel.github.io/AnanyaBaghel-portfolio",
+  "name": "ananya-baghel-portfolio",
+  "version": "1.0.0",
+  "description": "Ananya Baghel's Portfolio - Data Science | AI/ML | Analytics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "host": "vite --host",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+    
+  },
+  "keywords": [
+    "portfolio",
+    "data science",
+    "machine learning",
+    "ai",
+    "analytics",
+    "ananya baghel"
+  ],
+  "author": "Ananya Baghel",
+  "license": "MIT",
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.3",
+    "vite": "^6.3.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
