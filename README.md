@@ -32,7 +32,7 @@ This portfolio is more than just a personal website - it's a carefully crafted d
 The portfolio serves as both a personal showcase and a testament to modern web development capabilities, featuring smooth animations, engaging interactions, and a cohesive visual identity throughout.
 
 ## 🚀 Live Demo
-🌐 [View Live Portfolio](https://web-development-portfolio-blond.vercel.app/)
+🌐 [View Live Portfolio](https://ananya-baghel-portfolio.vercel.app/)
 
 Experience the portfolio in its full glory with all animations and interactions. The live version is deployed on Vercel with global CDN distribution for optimal performance worldwide.
 
@@ -120,7 +120,7 @@ portfolio/
 ### Local Development Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prashantkoirala465/portfolio.git
+   git clone https://github.com/Ananya-Baghel/AnanyaBaghel-portfolio.git
    ```
 
 2. Install dependencies:
@@ -339,30 +339,30 @@ The portfolio features a sophisticated page transition system using GSAP:
 - Check performance impact
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📞 Contact
 
 ### Project Author
-**Prashant Koirala**
-- Portfolio: [prashantkoirala.info.np](https://prashantkoirala.info.np)
+**Ananya Baghel**
 - Email: ananyabaghel0001@gmail.com
-- GitHub: [@prashantkoirala465](https://github.com/prashantkoirala465)
-- LinkedIn: [Prashant Koirala](https://linkedin.com/in/prashantkoirala)
-- Twitter: [@arkynox_](https://twitter.com/arkynox_)
+- GitHub: [@Ananya-Baghel](https://github.com/Ananya-Baghel)
+- LinkedIn: [Ananya Baghel ](https://www.linkedin.com/in/ananya-baghel-17s43/)
+- Twitter: [@AnaNONE_yaahh](https://x.com/AnaNONE_yaahh)
 
-### Support Channels
-- **Issues**: [GitHub Issues](https://github.com/prashantkoirala465/portfolio/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/prashantkoirala465/portfolio/discussions)
-- **Email**: Direct email for urgent inquiries
+
 
 ### Professional Services
-Available for:
-- Custom Portfolio Development
-- Animation Consulting
-- Performance Optimization
-- Design System Creation
-- Code Reviews & Audits
+
+I specialize in building data-driven solutions and am open to:
+
+- Extracting meaningful insights from complex datasets  
+- Developing and evaluating machine learning models  
+- Creating impactful visualizations and dashboards  
+- Solving real-world business problems using data  
+- Data preprocessing, feature engineering, and analysis  
+- Exploring AI/ML and NLP-based applications  
+- Collaborating on innovative and research-driven projects  
 
 ## 🔄 Changelog
 
